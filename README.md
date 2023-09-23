@@ -23,7 +23,9 @@ In addition, it also contains a web app created by me to make skin cancer predic
 ![Captura de Pantalla 2023-09-23 a las 12 13 12](https://github.com/mnguerr/MelanomaClassification/assets/126558801/faa71821-2ad9-4563-bcbf-5e998dc939de)
 
 
+## Citation
 
+Anna Zawacki, Brian Helba, George Shih, Jochen Weber, Julia Elliott, Marc Combalia, Nicholas Kurtansky, NoelCodella, Phil Culliton, Veronica Rotemberg. (2020). SIIM-ISIC Melanoma Classification. Kaggle. https://kaggle.com/competitions/siim-isic-melanoma-classification
 
 
 
