@@ -15,7 +15,9 @@ Melanoma is a deadly disease, but if caught early, most melanomas can be cured w
 The url of this competition is: https://www.kaggle.com/competitions/siim-isic-melanoma-classification/overview
 
 
-This repo contains my EDA, data cleaning, feature engineering and modelling work for this Kaggle competition, where I currently hold a 90% of accuracy. It is also included all the experiments and iterations I have done before reaching my final model.
+This repo contains my EDA, data cleaning, feature engineering and modelling work for this Kaggle competition, where I currently hold a 90% of accuracy. It is also included all the experiments and iterations I have done before reaching my final model. The entire notebook it is called: 
+
+In addition, it also contains a web app created by me to make skin cancer predictions. It is called: 
 
 
 ![Captura de Pantalla 2023-09-23 a las 12 13 12](https://github.com/mnguerr/MelanomaClassification/assets/126558801/faa71821-2ad9-4563-bcbf-5e998dc939de)
